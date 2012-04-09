@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baseclasses", "baseclasses.vcxproj", "{754AAD37-C1DE-4BEC-8BE5-A884E65E05B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grabber", "..\Filters\grabber\grabber.vcxproj", "{86DE27CB-F398-42DC-8A2B-70BCD45B4E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754AAD37-C1DE-4BEC-8BE5-A884E65E05B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{754AAD37-C1DE-4BEC-8BE5-A884E65E05B2}.Debug|Win32.Build.0 = Debug|Win32
+		{754AAD37-C1DE-4BEC-8BE5-A884E65E05B2}.Release|Win32.ActiveCfg = Release|Win32
+		{754AAD37-C1DE-4BEC-8BE5-A884E65E05B2}.Release|Win32.Build.0 = Release|Win32
+		{86DE27CB-F398-42DC-8A2B-70BCD45B4E6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86DE27CB-F398-42DC-8A2B-70BCD45B4E6D}.Debug|Win32.Build.0 = Debug|Win32
+		{86DE27CB-F398-42DC-8A2B-70BCD45B4E6D}.Release|Win32.ActiveCfg = Release|Win32
+		{86DE27CB-F398-42DC-8A2B-70BCD45B4E6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
